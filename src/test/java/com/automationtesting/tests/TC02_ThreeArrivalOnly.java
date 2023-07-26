@@ -1,4 +1,4 @@
-package com.automationtesting.tests.homepage;
+package com.automationtesting.tests;
 import com.automationtesting.pages.Homepage;
 import com.automationtesting.utilities.ConfigurationReader;
 import com.automationtesting.utilities.Driver;
